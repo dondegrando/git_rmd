@@ -2,7 +2,7 @@
 jupyter:
   jupytext:
     text_representation:
-      extension: .Rmd
+      extension: .ipynb,.Rmd
       format_name: rmarkdown
       format_version: '1.2'
       jupytext_version: 1.10.0
