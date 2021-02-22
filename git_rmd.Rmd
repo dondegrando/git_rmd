@@ -1,0 +1,34 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.10.0
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
+```{python}
+# %autosave 0
+```
+
+```{python}
+print("i am just still moving but iu know that")
+print("slowly but surely, i will get there by God's will")
+```
+
+```{python}
+import pandas as pd
+```
+
+```{python}
+import scipy as sy
+```
+
+```{python}
+
+```
